@@ -8,15 +8,15 @@
 </div>
 
 <div align="center">
-    <a href="https://gitlab.com/OctoBanon/Caesium-Rich-Presence/-/issues">Send bug report</a>
+    <a href="https://github.com/OctoBanon-Main/Caesium-Rich-Presence/issues">Send bug report</a>
     •
-    <a href="https://gitlab.com/OctoBanon/Caesium-Rich-Presence#usage">Usage</a>
+    <a href="https://github.com/OctoBanon-Main/Caesium-Rich-Presence#usage">Usage</a>
     •
-    <a href="https://gitlab.com/OctoBanon/Caesium-Rich-Presence#things-to-fix">Things to fix</a>
+    <a href="https://github.com/OctoBanon-Main/Caesium-Rich-Presence#things-to-fix">Things to fix</a>
     •
-    <a href="https://gitlab.com/OctoBanon/Caesium-Rich-Presence#special-thanks">Special thanks</a>
+    <a href="https://github.com/OctoBanon-Main/Caesium-Rich-Presence#special-thanks">Special thanks</a>
     •
-    <a href="https://gitlab.com/OctoBanon/Caesium-Rich-Presence#license-information">License Information</a>
+    <a href="https://github.com/OctoBanon-Main/Caesium-Rich-Presence#license-information">License Information</a>
 </div>
 
 ## Warning
@@ -58,7 +58,7 @@ Nothing is broken
 Feel free to fork this repo and make a pull request or create an issue, if you encountered a problem!
 
 ## Special thanks
-[.ZΞRO](https://gitlab.com/kostya-zero) - For helping with code and bug fixing
+[.ZΞRO](https://github.com/kostya-zero) - For helping with code and bug fixing
 
 [Snaky1](https://github.com/Snaky1) - For PEP8 fixes
 
@@ -66,4 +66,4 @@ vnpleo - For helping with text correction in this readme
 
 
 ## License Information
-The project is licensed under the [GNU General Public License 3.0](https://gitlab.com/OctoBanon/Caesium-Rich-Presence/-/blob/main/LICENSE).
+The project is licensed under the [GNU General Public License 3.0](https://github.com/OctoBanon-Main/Caesium-Rich-Presence/blob/development/LICENSE).
