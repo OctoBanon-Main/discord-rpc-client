@@ -8,15 +8,15 @@
 </div>
 
 <div align="center">
-    <a href="https://gitlab.com/OctoBanon/Caesium-Rich-Presence/-/issues">Send bug report</a>
+    <a href="https://github.com/OctoBanon-Main/Caesium-Rich-Presence/issues">Send bug report</a>
     •
-    <a href="https://gitlab.com/OctoBanon/Caesium-Rich-Presence#todo-list">TODO list</a>
+    <a href="https://github.com/OctoBanon-Main/Caesium-Rich-Presence#todo-list">TODO list</a>
     •
-    <a href="https://gitlab.com/OctoBanon/Caesium-Rich-Presence#this-program-against-discord-tos">ToS?</a>
+    <a href="https://github.com/OctoBanon-Main/Caesium-Rich-Presence#this-program-against-discord-tos">ToS?</a>
     •
-    <a href="https://gitlab.com/OctoBanon/Caesium-Rich-Presence#special-thanks">Special thanks</a>
+    <a href="https://github.com/OctoBanon-Main/Caesium-Rich-Presence#special-thanks">Special thanks</a>
     •
-    <a href="https://gitlab.com/OctoBanon/Caesium-Rich-Presence#license-information">License Information</a>
+    <a href="https://github.com/OctoBanon-Main/Caesium-Rich-Presence#license-information">License Information</a>
 </div>
 
 ## Warning
@@ -44,7 +44,7 @@ No. This program just emulate game with Rich Presence feature. Feature for game 
 ![Example](https://discord.com/assets/43bef54c8aee2bc0fd1c717d5f8ae28a.png "Example image")
 
 ## Special thanks
-[.ZΞRO](https://gitlab.com/kostya-zero) - For helping with Python and Rust versions
+[.ZΞRO](https://github.com/kostya-zero) - For helping with Python and Rust versions
 
 [Snaky1](https://github.com/Snaky1) - For helping with Python version
 
