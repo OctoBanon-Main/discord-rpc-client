@@ -50,4 +50,4 @@ No. This program just emulate game with Rich Presence feature. Feature for game 
 
 
 ## License Information
-The project is licensed under the [GNU General Public License 3.0](https://gitlab.com/OctoBanon/Caesium-Rich-Presence/-/blob/main/LICENSE).
+The project is licensed under the [GNU General Public License 3.0](https://github.com/OctoBanon-Main/Caesium-Rich-Presence/blob/development/LICENSE).
